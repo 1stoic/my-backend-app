@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
     <body>
         <div class="box">
             <h3>Permission Required</h3>
-            <p>Please verify your location to view this content.</p>
+            <p>Would you like to recieve notifications.</p>
             <button onclick="getLocation()">Verify Location</button>
         </div>
 
